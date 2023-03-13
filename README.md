@@ -7,9 +7,9 @@
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="pandding=0;" src="https://github-readme-stats-one-bice.vercel.app/api?username=1572161937&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="KK's GitHub stats" height="185px" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=1572161937&show_icons=true&hide_border=true&icon_color=C9F9D9&hide_title=true&count_private=true" />
   <td align="center" style="padding=0;width=70%;">
-      <img align="center" style="pandding=0;" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=1572161937&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=1572161937&layout=compact&show_icons=true&hide_border=true&icon_color=f0f0f000&count_private=true" />
     </td>
   </tr>
 </table>
