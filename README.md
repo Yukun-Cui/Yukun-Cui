@@ -1,4 +1,4 @@
-# Hi 👋 KK here.
+# Hi 👋 KK here
 
 * 🎓 Undergraduate student of Computer Science in [🏫 RUC](https://www.ruc.edu.cn/)
 * ❤️ Interested in everything, because know nothing
