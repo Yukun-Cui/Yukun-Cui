@@ -1,6 +1,6 @@
 # Hi 👋 KK here
 
-* 🎓 Undergraduate student of Computer Science in 🏫 [Renmin University of China](https://www.ruc.edu.cn/)
+* 🎓 Undergraduate student of Computer Science in 🏫[RUC](https://www.ruc.edu.cn/)
 * ❤️ Interested in everything, because know nothing
 * 📫 Email : [1572161937@qq.com](mailto:1572161937@qq.com)
 
