@@ -1,7 +1,7 @@
 # Hi 👋 KK here
 
-* 🎓 Undergraduate student of Computer Science in [🏫 RUC](https://www.ruc.edu.cn/)
-* ❤️ [My HomePage](https://1572161937.github.io/)
+* 🎓 I'm an undergraduate student of Computer Science in [🏫 RUC](https://www.ruc.edu.cn/)
+* ❤️ Welcome to [KK's Blog](https://1572161937.github.io/)
 
 <table>
   <tr>
