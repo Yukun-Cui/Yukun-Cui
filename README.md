@@ -5,6 +5,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cloudflare,cmake,docker,flask,git,github,gitlab,html,latex,linux,md,nginx,postman,powershell,py,pytorch,qt,rocket,tensorflow,twitter,visualstudio,vscode)](https://skillicons.dev)
 
+<h2 align="center">GitHub Stats</h2>
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
