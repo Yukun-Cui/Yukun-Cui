@@ -3,7 +3,7 @@
 * 🎓 I'm an undergraduate student majoring in Computer Science at [🏫 RUC](https://www.ruc.edu.cn/) .
 * ❤️ Welcome to [KK's Blog](http://kk888.me/) !
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cloudflare,cmake,docker,git,github,gitlab,html,ai,instagram,latex,linkedin,linux,md,mysql,postman,powershell,py,pytorch,qt,rocket,twitter,vercel,vim,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cloudflare,docker,git,github,gitlab,html,ai,instagram,latex,linux,md,powershell,py,rocket,twitter,vercel,vim,visualstudio,vscode)](https://skillicons.dev)
 
 <h2 align="center">GitHub Stats</h2>
 <table>
