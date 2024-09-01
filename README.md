@@ -1,8 +1,5 @@
 # Hi 👋 KK here
 
-* 🎓 I'm an undergraduate student majoring in Computer Science at [🏫 RUC](https://www.ruc.edu.cn/) .
-* ❤️ Welcome to [KK's Blog](http://kk888.me/) !
-
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cloudflare,docker,git,github,gitlab,latex,linux,md,powershell,py,vim,visualstudio,vscode)](https://skillicons.dev)
 
 <h2 align="center">GitHub Stats</h2>
