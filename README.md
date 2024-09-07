@@ -1,7 +1,3 @@
-# Hi 👋 KK here
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cloudflare,docker,git,github,gitlab,latex,linux,md,powershell,py,vim,visualstudio,vscode)](https://skillicons.dev)
-
 <h2 align="center">GitHub Stats</h2>
 <table>
   <tr>
