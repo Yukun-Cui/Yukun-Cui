@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yukun-Cui&theme=flat&column=4&row=2&margin-w=15&margin-h=15&no-frame=false&rank=-C,-B&no-bg=true" alt="KK's GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Yukun-Cui&theme=flat&column=4&row=2&margin-w=15&margin-h=15&no-frame=false&no-bg=true" alt="KK's GitHub Trophies"/>
 </div>
 
 <br>
