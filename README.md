@@ -19,5 +19,5 @@
 <br>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{Yukun-Cui}/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/Yukun-Cui/count.svg" alt="Visitor Count" />
 </div>
